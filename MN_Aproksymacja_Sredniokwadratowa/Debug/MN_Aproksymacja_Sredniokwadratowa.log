@@ -1,0 +1,4 @@
+﻿  MN_Aproksymacja_Sredniokwadratowa.cpp
+d:\dev\github\mn_aproksymacja_sredniokwadratowa\mn_aproksymacja_sredniokwadratowa\mn_aproksymacja_sredniokwadratowa.cpp(30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\dev\github\mn_aproksymacja_sredniokwadratowa\mn_aproksymacja_sredniokwadratowa\mn_aproksymacja_sredniokwadratowa.cpp(39): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MN_Aproksymacja_Sredniokwadratowa.vcxproj -> D:\DEV\GitHub\MN_Aproksymacja_Sredniokwadratowa\Debug\MN_Aproksymacja_Sredniokwadratowa.exe
